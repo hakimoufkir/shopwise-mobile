@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "297567209629",
+    "firebase_url": "https://shopwise-395215-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "shopwise-395215",
+    "storage_bucket": "shopwise-395215.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297567209629:android:d27eecee129da314e66c74",
+        "android_client_info": {
+          "package_name": "com.shopwisernapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297567209629-u113ethcpcc879phkvcb1hnm3deua61s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shopwisernapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "297567209629-sf7apr2ttopif59bqknijajtokle4l40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3Yz7jIgWTxaCrnaHraUCAIQs3PTm0aRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297567209629-9ck9r6iskgbeme3q2h38834tu96n5cah.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "297567209629-1papsduhgrsd1cfjp1gnugrtn5dg6b8v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hakimo001.shopwise"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

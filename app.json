@@ -1,0 +1,9 @@
+{
+  "name": "shopwisernapp",
+  "displayName": "shopwisernapp",
+  "config": {
+    "googleMaps": {
+      "apiKey": "AIzaSyBUZHQ26WxIBMkmQXeAl-P1GO-MJjOhhYk"
+    }
+  }
+}
